@@ -19,7 +19,7 @@ import argparse
 import os
 import sys
 
-from EXAMPLE_PROJECT import __version__
+from PROJECT_NAME import __version__
 
 
 def print_help():

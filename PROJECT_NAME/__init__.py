@@ -15,7 +15,7 @@
 #                                                                             #
 ###############################################################################
 
-__title__ = 'EXAMPLE_PROJECT'
+__title__ = 'PROJECT_NAME'
 __description__ = ''
 __url__ = 'https://github.com/ArianeMora/sciviso.git'
 __version__ = '1.0.0'
@@ -23,5 +23,5 @@ __author__ = 'Ariane Mora'
 __author_email__ = 'ariane.n.mora@gmail.com'
 __license__ = 'GPL3'
 
-from EXAMPLE_PROJECT.example import Example
+from PROJECT_NAME.example import Example
 

@@ -20,7 +20,7 @@ import shutil
 import tempfile
 import unittest
 
-from EXAMPLE_PROJECT import Example
+from PROJECT_NAME import Example
 
 class TestExample(unittest.TestCase):
 
